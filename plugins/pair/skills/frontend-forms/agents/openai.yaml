@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pair Frontend Forms"
+  short_description: "Edit Pair forms and progressive server-rendered UI"
+  default_prompt: "Use $pair:frontend-forms to update this Pair interface using its installed version, shared controls, and server-rendered flow."

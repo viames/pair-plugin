@@ -1,0 +1,47 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "pair",
+  "version": "0.3.0",
+  "description": "Version-aware Pair PHP workflows for applications and framework development.",
+  "author": {
+    "name": "Viames Marino",
+    "url": "https://github.com/viames"
+  },
+  "homepage": "https://viames.github.io/pair-plugin/",
+  "repository": "https://github.com/viames/pair-plugin",
+  "license": "MIT",
+  "keywords": [
+    "pair",
+    "php",
+    "web-app",
+    "mvc",
+    "api",
+    "forms",
+    "migration",
+    "crud"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Pair",
+        "shortDescription": "Build Pair apps with explicit contracts and version-aware workflows",
+        "longDescription": "Six focused skills for Pair PHP applications and framework development, with on-demand guidance for ORM, auth and mobile, services, PWA and push, cache, diagnostics, packages, and upgrades. Uses installed-version contracts and preserves legacy flows.",
+        "developerName": "Viames Marino",
+        "category": "Coding",
+        "capabilities": [
+          "Interactive",
+          "Read",
+          "Write"
+        ],
+        "websiteURL": "https://viames.github.io/pair-plugin/",
+        "privacyPolicyURL": "https://viames.github.io/pair-plugin/privacy.html",
+        "termsOfServiceURL": "https://viames.github.io/pair-plugin/terms.html",
+        "defaultPrompt": "Use pair:pair to identify this Pair project version and apply the relevant workflow for the requested change.",
+        "brandColor": "#0F766E",
+        "composerIcon": "./assets/pair-small.svg",
+        "logo": "./assets/pair-logo.svg",
+        "screenshots": []
+      }
+    }
+  }
+}
