@@ -1,3 +1,5 @@
+![Pair for Codex — Six skills. One framework-aware workflow.](https://raw.githubusercontent.com/viames/pair-plugin/main/.github/assets/cover.jpg)
+
 # Plugin Pair per Codex
 
 **Assistenza per applicazioni PHP Pair e sviluppo del framework, basata sulla versione realmente installata.**

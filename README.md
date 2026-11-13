@@ -1,4 +1,8 @@
+![Pair for Codex — Six skills. One framework-aware workflow.](https://raw.githubusercontent.com/viames/pair-plugin/main/.github/assets/cover.jpg)
+
 # Pair plugin for Codex
+
+[Install](#install) · [Six skills](#skills) · [Requirements](#requirements-and-boundaries) · [Support](https://github.com/viames/pair-plugin/issues)
 
 **Version-aware assistance for Pair PHP applications and framework development.**
 
