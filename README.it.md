@@ -6,7 +6,7 @@
 
 Autore: **Viames Marino** · Licenza **MIT** · Versione **0.3.0**
 
-[Sito](https://viames.github.io/pair-plugin/) · [Release](https://github.com/viames/pair-plugin/releases) · [English](README.md)
+[Sito](https://viames.github.io/pair-plugin/) · [skills.sh](https://skills.sh/viames/pair-plugin/pair) · [Release](https://github.com/viames/pair-plugin/releases) · [English](README.md)
 
 ## Installazione
 

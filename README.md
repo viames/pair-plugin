@@ -8,7 +8,7 @@
 
 By **Viames Marino** · **MIT** · **0.3.0**
 
-[Website](https://viames.github.io/pair-plugin/) · [Italiano](README.it.md) · [Releases](https://github.com/viames/pair-plugin/releases) · [Pair framework](https://github.com/viames/pair)
+[Website](https://viames.github.io/pair-plugin/) · [skills.sh](https://skills.sh/viames/pair-plugin/pair) · [Italiano](README.it.md) · [Releases](https://github.com/viames/pair-plugin/releases) · [Pair framework](https://github.com/viames/pair)
 
 Six focused skills guide Codex through Pair modules, APIs, forms, migrations and CRUD. On-demand references cover authentication and native mobile contracts, ORM and cache, integrations, PWA and push, runtime extensions, diagnostics and upgrades. The skills inspect the installed Pair version and preserve the application's existing architecture.
 
